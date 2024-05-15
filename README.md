@@ -1,6 +1,6 @@
 ### Hi there 👋, Maxwell Githinji
 #### I am a Junior Software Engineer
-Currently pursuing Bsc. Software Engineering at USIU-A , Moringa School, and ALX-Academy, I enjoy developing clean, and relevant code scripts that solution based. I am also quite curious and I love the challenge that comes with learning new langauges, frameworks, and algorithms.
+Currently pursuing Bsc. Software Engineering at USIU-A , Moringa School, and ALX-Academy. I enjoy developing clean, and relevant code scripts that are solution based. I am also quite curious and I love the challenge that comes with learning new langauges, frameworks, and algorithms.
 
 Skills: JS / PYTHON/ RUBY/ RUBY ON RAILS/ VITE / REACT / HTML / CSS / SASS/ BOOTSTRAP / TAILWIND
 
