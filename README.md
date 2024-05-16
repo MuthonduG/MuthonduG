@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm MaxwellGithinji</h1>
 <h3 align="center">I am a Junior Software Engineer from Nairobi, Kenya.</h3>
 
-Currently pursuing Bsc. Software Engineering at USIU-A , Moringa School, and ALX-Academy. I enjoy developing clean, and relevant code scripts that are solution based. I am also quite curious and I love the challenge that comes with learning new langauges, frameworks, and algorithms.
+Highly motivated junior software engineer with a solid foundation in JavaScript, Ruby, and Python, along with proficiency in React.js and Ruby on Rails (RoR). Possessing a strong understanding of software development principles and methodologies, adept at collaborating within agile teams to deliver robust solutions. Demonstrated ability to adapt quickly to new technologies and contribute effectively to the full software development lifecycle.
 
 - 🔭 I’m currently working on [air bnb clone](https://github.com/MuthonduG/air_bnb)
 
